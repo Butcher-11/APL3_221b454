@@ -1,2 +1,2 @@
 # Java
-This is my first repo in java.
+My first repo in java.
